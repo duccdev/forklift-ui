@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply font-space-grotesk;
+}
+
+p {
+  @apply text-black dark:text-white;
+}
